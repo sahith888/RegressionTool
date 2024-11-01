@@ -1,0 +1,9 @@
+﻿  regresssion.cpp
+C:\Users\Home\Desktop\work\Regression\regresssion.cpp(28,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Home\Desktop\work\Regression\regresssion.cpp(37,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Home\Desktop\work\Regression\regresssion.cpp(37,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Home\Desktop\work\Regression\regresssion.cpp(37,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Home\Desktop\work\Regression\regresssion.cpp(37,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Home\Desktop\work\Regression\regresssion.cpp(37,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Home\Desktop\work\Regression\regresssion.cpp(47,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Regression.vcxproj -> C:\Users\Home\Desktop\work\Regression\x64\Debug\Regression.exe
